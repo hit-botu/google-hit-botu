@@ -30,5 +30,6 @@
     <div class="btn-container">
       <a href="https://requesthit.com" class="btn">Satın Al</a>
       <a href="https://requesthit.com" class="btn">Bilgi Al</a>
+      <a href="https://shellmarket.click" class="btn">Shell Market</a>
     </div>
   </section>
