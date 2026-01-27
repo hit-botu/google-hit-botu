@@ -28,7 +28,7 @@
       Geri kalan işlemleri sistem otomatik olarak yürütür. Böylece zaman kazanırken SEO çalışmalarınızı da desteklemiş olursunuz.
     </p>
     <div class="btn-container">
-      <a href="https://requesthit.com" class="btn">Satın Al</a>
+      <a href="https://hitbotu.org" class="btn">Satın Al</a>
       <a href="https://requesthit.com" class="btn">Bilgi Al</a>
       <a href="https://shellmarket.click" class="btn">Shell Market</a>
     </div>
